@@ -23,4 +23,6 @@ The script needs the `fort.7` to be in the same directory. Then, it can be execu
 **Be careful**! The script removes files with these filenames during execution: `fit.log`, `freqs.out`, `scratch*.out`.
 
 ## Addendum
-This repo also contains an example `fort.7` file.
+This repo contains another script: `plot.sh`. It is a script to simply visualize the Birge-Sponer plot using `gnuplot`.
+
+There is also an example `fort.7` file in this repo to perform tests.
