@@ -1,5 +1,5 @@
 # omega_regression
-The `regression.sh` is a shell script to calculate harmonic frequency ω<sub>e</sub> and anharmonicity constant ω<sub>e</sub>x<sub>e</sub> of a given molecule and a given state using linear regression. It is based on an analysis of the Birge-Sponer plot. See: David, Carl W., "The Birge Sponer Extrapolation" (2008), Chemistry Education Materials, Paper 63, `digitalcommons.uconn.edu/chem_educ/63`.
+The `regression.sh` is a shell script to calculate harmonic frequency ω<sub>e</sub> and anharmonicity constant ω<sub>e</sub>x<sub>e</sub> of a given molecule and a given state using linear regression. It is based on an analysis of the Birge-Sponer plot. See: [David, Carl W., "The Birge Sponer Extrapolation" (2008), Chemistry Education Materials, Paper 63](digitalcommons.uconn.edu/chem_educ/63).
 
 This repo contains another script: `plot.sh`. It is a script to simply visualize the Birge-Sponer plot using `gnuplot`.
 
