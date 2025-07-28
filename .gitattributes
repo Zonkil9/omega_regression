@@ -1,2 +1,2 @@
 *.7 linguist-language=Shell
-*/level_source/* linguist-language=Shell
+*.f linguist-language=Shell
